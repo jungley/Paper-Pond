@@ -1,4 +1,4 @@
-# Paper-Pond
+# Paper-Pond - 48 Prototype Game
 Chillenium 2017
 
 A collection of the scripts developed for the prototype game Paper Pond.
